@@ -75,14 +75,12 @@ html {
   .banner {
     opacity: .5;
   }
-}
 
 }
 
 @media (prefers-reduced-motion) {
 
-  .gear,
-  .gear-small {
+  .gear {
     animation: none;
   }
 
